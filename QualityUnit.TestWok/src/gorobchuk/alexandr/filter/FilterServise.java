@@ -2,7 +2,6 @@ package gorobchuk.alexandr.filter;
 
 import java.time.Year;
 import java.time.YearMonth;
-import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Calendar;
 import java.util.GregorianCalendar;
